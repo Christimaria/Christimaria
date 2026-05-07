@@ -1,4 +1,4 @@
-# 🌸 Hi there, I'm Christi Maria!
+#  Hi there, I'm Christi Maria!
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-CSE%20Student-FF69B4?style=for-the-badge" />
@@ -6,12 +6,13 @@
   <img src="https://img.shields.io/badge/Design-UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 🚀 "Building technology that is both innovative and meaningful."
+###  "Building technology that is both innovative and meaningful."
 I am a creative problem solver focused on bridging the gap between complex engineering and user-centered design. I specialize in developing technology-driven solutions that prioritize innovation, accessibility, and real-world impact.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
+
 
 **Development & Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,7 +29,7 @@ I am a creative problem solver focused on bridging the gap between complex engin
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
 #### 👓 [Smart Assistive Glasses](https://github.com/Christimaria/Smart-Assistive-Glasses-for-the-Visually-Impaired)
 *IoT • AI • Accessibility*
@@ -50,6 +51,7 @@ An independent journalism platform concept featuring **verified anonymity** and 
 ---
 
 ### 🎨 UI/UX & Design Portfolio
+
 * **Figma Design Explorations:** A collection of creative UI/UX projects focused on modern, aesthetic, and user-friendly interfaces.
 * **Focus Areas:** Mobile App Design, Minimalist Web Layouts, and User-Centered Prototyping.
 * **Internship Experience:** Strengthened skills in interface planning and aesthetic consistency during a professional UI/UX internship.
@@ -57,6 +59,7 @@ An independent journalism platform concept featuring **verified anonymity** and 
 ---
 
 ### 🏆 Achievements & Learning
+
 * **🥇 I2U Funding Recipient:** Phase-II funding for hardware innovation.
 * **📄 Published Researcher:** IJERA (2026) – *Smart Assistive Glasses for Visually Impaired*.
 * **🎨 UI/UX Intern:** Professional experience in user-centered design.
