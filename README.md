@@ -57,8 +57,11 @@ An independent journalism platform concept featuring **verified anonymity** and 
 
 ### 🎨 UI/UX & Design Portfolio
 
-* **Figma Design Explorations:** A collection of creative UI/UX projects focused on modern, aesthetic, and user-friendly interfaces.
-* **Focus Areas:** Mobile App Design, Minimalist Web Layouts, and User-Centered Prototyping.
+🏦 [Credixa Bank UI/UX Design](https://github.com/Christimaria/UI-UX)
+*FinTech • User Research • Prototyping*
+A comprehensive design for a modern banking interface focusing on secure transactions and user-friendly navigation.
+* **Key Work:** User flow mapping, high-fidelity wireframing in Figma, and accessibility-first interface design.
+  
 * **Internship Experience:** Strengthened skills in interface planning and aesthetic consistency during a professional UI/UX internship.
 
 ---
