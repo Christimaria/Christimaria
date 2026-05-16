@@ -40,6 +40,11 @@ An AI-integrated assistive navigation system for visually impaired users.
 *DBMS • Python • MySQL*
 Full CRUD application with relational billing and a live MySQL backend featuring 5 interconnected tables.
 
+#### 🎓 [Student Academic Planner](https://github.com/Christimaria/STUDENT-PLANNER)
+*Web Development • Single-Page Application (SPA)*
+A clean, all-in-one productivity tool built using **HTML, CSS, and JavaScript** in a single integrated file.
+* **Features:** Integrated To-Do lists, Pomodoro timer, and subject tracking with a minimalist, student-friendly interface.
+  
 #### 🖥️ [CPU Scheduling Simulator](https://github.com/Christimaria/CPU-SCHEDULING-SIMULATOR)
 *Operating Systems • HTML • JavaScript*
 Interactive tool to visualize **FCFS** and **SJF** scheduling. Automatically calculates Average WT and TAT.
